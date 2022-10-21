@@ -2,7 +2,7 @@
 
 /**
  * main - Prints all single digits numbers of base 1o starting from 0,
- * 	  only using putchar
+ * only using putchar
  *
  * Return: 0
  */
