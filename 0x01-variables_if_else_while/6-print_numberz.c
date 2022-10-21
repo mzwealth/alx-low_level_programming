@@ -2,7 +2,7 @@
 
 /**
  * main - Prints all single digits numbers of base 1o starting from 0,
- * 	  only using putchar without char variables.
+ * 	  only using putchar
  *
  * Return: 0
  */
@@ -11,7 +11,7 @@ int main(void)
 	int num;
 
 	for (num = 0; num < 10; num++)
-		puchar((num % 10) + '0');
+		putchar((num % 10) + '0');
 
 	putchar('\n');
 
